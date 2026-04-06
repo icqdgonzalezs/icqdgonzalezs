@@ -1,13 +1,14 @@
 # David González Santibañez
 
-Ingeniero Civil Químico orientado a Ingeniería de Procesos, Optimización Operacional y Análisis de Datos Industriales.
-Interesado en la mejora continua de procesos productivos mediante análisis de información, modelación, simulación y automatización de reportes utilizando Python.
-
-Mi enfoque profesional está en la optimización de procesos industriales, balances de masa y energía, análisis de eficiencia operacional (OEE, KPIs), consumo energético, reducción de costos operacionales y apoyo a la toma de decisiones mediante análisis de datos.
+Ingeniero Civil Químico | Process Engineer | Industrial Data Analysis
 
 ---
 
-## 🔍 Áreas de trabajo e interés
+## 🇪🇸 Español
+
+Ingeniero Civil Químico orientado a Ingeniería de Procesos, Optimización Operacional y Análisis de Datos Industriales. Interesado en la mejora continua de procesos productivos mediante análisis de información, modelación, simulación y automatización de reportes utilizando Python.
+
+### 🔍 Áreas de trabajo e interés
 
 * Ingeniería de Procesos
 * Optimización de procesos industriales
@@ -17,58 +18,52 @@ Mi enfoque profesional está en la optimización de procesos industriales, balan
 * Simulación de procesos industriales
 * Optimización de producción
 * Automatización de reportes
-* Control y análisis operacional
 * Python aplicado a procesos industriales
 
----
-
-## 🏭 Proyectos desarrollados
-
-En este perfil se pueden encontrar proyectos orientados a la aplicación de Python en ingeniería de procesos e industria:
+### 🏭 Proyectos desarrollados
 
 * Sistema de KPIs y OEE de Planta Industrial
 * Balance de Masa y Energía en Python
 * Simulación de Línea de Producción
 * Optimización de Producción Industrial
-* Simulación de Procesos (Reactores / Procesos Continuos)
+* Simulación de Procesos
 * Control PID de Procesos
 * Dashboard de Indicadores Industriales
 * Análisis de Datos Operacionales de Planta
-* Consumo Energético y Eficiencia Operacional
+
+### 🎯 Objetivo profesional
+
+Desarrollarme en el área de ingeniería de procesos, optimización y análisis de datos industriales para mejorar el desempeño operacional de plantas industriales.
 
 ---
 
-## 💻 Tecnologías y herramientas
+## 🇺🇸 English
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* SciPy
-* SQL
-* Power BI
-* Excel Avanzado
-* Análisis de datos
-* Modelación de procesos
-* Optimización
-* Visualización de datos
+Chemical Process Engineer focused on Process Engineering, Operational Optimization and Industrial Data Analysis. Interested in process improvement through data analysis, process modeling, simulation and automation using Python.
 
----
+### 🔍 Areas of Interest
 
-## 📈 Enfoque profesional
+* Process Engineering
+* Industrial Process Optimization
+* Plant Data Analysis
+* KPIs and OEE
+* Mass and Energy Balances
+* Process Simulation
+* Production Optimization
+* Reporting Automation
+* Python for Industrial Applications
 
-Mi enfoque es utilizar herramientas de análisis de datos, modelación y simulación para:
+### 🏭 Projects
 
-* Mejorar la eficiencia de procesos
-* Reducir costos operacionales
-* Optimizar el uso de energía y recursos
-* Analizar desempeño de plantas industriales
-* Apoyar la toma de decisiones operacionales
-* Automatizar reportes e indicadores de gestión
-* Identificar cuellos de botella en procesos productivos
+* Industrial Plant KPIs and OEE System
+* Mass and Energy Balance in Python
+* Production Line Simulation
+* Production Optimization Model
+* Process Simulation
+* PID Process Control
+* Industrial KPI Dashboard
+* Plant Operational Data Analysis
 
----
+### 🎯 Professional Goal
 
-## 🎯 Objetivo profesional
-
-Desarrollarme en el área de ingeniería de procesos, mejora continua, optimización y análisis de datos industriales, aportando con herramientas de programación, análisis y modelación para mejorar el desempeño operacional de plantas industriales.
+To develop in process engineering, optimization and industrial data analysis, applying programming, modeling and data analysis to improve industrial plant performance.
