@@ -1,13 +1,13 @@
 # David González Santibañez
 
 Ingeniero Civil Químico orientado a Ingeniería de Procesos, Optimización Operacional y Análisis de Datos Industriales.
-Me interesa la mejora continua de procesos productivos mediante análisis de información, modelación de procesos, simulación y automatización de reportes utilizando Python.
+Interesado en la mejora continua de procesos productivos mediante análisis de información, modelación, simulación y automatización de reportes utilizando Python.
 
-Tengo especial interés en la optimización de procesos industriales, balances de masa y energía, simulación de procesos, análisis de eficiencia operacional (OEE, KPIs), consumo energético y reducción de costos operacionales.
+Mi enfoque profesional está en la optimización de procesos industriales, balances de masa y energía, análisis de eficiencia operacional (OEE, KPIs), consumo energético, reducción de costos operacionales y apoyo a la toma de decisiones mediante análisis de datos.
 
 ---
 
-## Áreas de trabajo e interés
+## 🔍 Áreas de trabajo e interés
 
 * Ingeniería de Procesos
 * Optimización de procesos industriales
@@ -15,16 +15,16 @@ Tengo especial interés en la optimización de procesos industriales, balances d
 * Indicadores de gestión (KPIs, OEE)
 * Balance de masa y energía
 * Simulación de procesos industriales
-* Automatización de reportes
 * Optimización de producción
+* Automatización de reportes
 * Control y análisis operacional
 * Python aplicado a procesos industriales
 
 ---
 
-## Proyectos desarrollados
+## 🏭 Proyectos desarrollados
 
-En este repositorio se pueden encontrar proyectos orientados a la aplicación de Python en ingeniería de procesos e industria:
+En este perfil se pueden encontrar proyectos orientados a la aplicación de Python en ingeniería de procesos e industria:
 
 * Sistema de KPIs y OEE de Planta Industrial
 * Balance de Masa y Energía en Python
@@ -34,10 +34,11 @@ En este repositorio se pueden encontrar proyectos orientados a la aplicación de
 * Control PID de Procesos
 * Dashboard de Indicadores Industriales
 * Análisis de Datos Operacionales de Planta
+* Consumo Energético y Eficiencia Operacional
 
 ---
 
-## Tecnologías y herramientas
+## 💻 Tecnologías y herramientas
 
 * Python
 * Pandas
@@ -50,10 +51,11 @@ En este repositorio se pueden encontrar proyectos orientados a la aplicación de
 * Análisis de datos
 * Modelación de procesos
 * Optimización
+* Visualización de datos
 
 ---
 
-## Enfoque profesional
+## 📈 Enfoque profesional
 
 Mi enfoque es utilizar herramientas de análisis de datos, modelación y simulación para:
 
@@ -63,9 +65,10 @@ Mi enfoque es utilizar herramientas de análisis de datos, modelación y simulac
 * Analizar desempeño de plantas industriales
 * Apoyar la toma de decisiones operacionales
 * Automatizar reportes e indicadores de gestión
+* Identificar cuellos de botella en procesos productivos
 
 ---
 
-## Objetivo profesional
+## 🎯 Objetivo profesional
 
 Desarrollarme en el área de ingeniería de procesos, mejora continua, optimización y análisis de datos industriales, aportando con herramientas de programación, análisis y modelación para mejorar el desempeño operacional de plantas industriales.
