@@ -42,7 +42,7 @@ Mi experiencia en mejora continua (RCA, Lean Six Sigma), calidad (HACCP, BPM) y 
 
 - 🟡 **Google Data Analytics Professional Certificate** – Coursera *(en curso)*  
 - 🟡 **Google Project Management Professional Certificate** – Coursera *(en curso)*  
-- 🟡 **Diplomado MRV de Emisiones GEI (ISO 14064)** – PUCV – CORFO *(en curso)*  
+- ✅ **Diplomado MRV de Emisiones GEI (ISO 14064)** – PUCV – CORFO  
 - ✅ **Bootcamp Fundamentos de Análisis de Datos** – SENCE  
 - ✅ **Introducción a la Programación en Python I** – PUCV  
 - ✅ **Metodologías Ágiles (Scrum/Kanban)** – IBM  
