@@ -64,4 +64,4 @@ Mi experiencia en mejora continua (RCA, Lean Six Sigma), calidad (HACCP, BPM) y 
 
 ### 🇺🇸 In a nutshell
 
-Chemical Process Engineer transitioning into **Data Analytics & Project Management**. I build industrial dashboards with Python (Streamlit, Plotly), automate KPI reporting, and apply Lean Six Sigma & RCA to reduce operational losses. Currently pursuing Google certifications in Data Analytics and Project Management. Open to hybrid roles that combine process engineering with data-driven decision making.
+Chemical Process Engineer transitioning into **Data Analytics & Project Management**. I build industrial dashboards with Python (Streamlit, Plotly), automate KPI reporting, and apply Lean Six Sigma & RCA to reduce operational losses. I also hold a diploma in **GHG emissions MRV (ISO 14064)**. Currently pursuing Google certifications in Data Analytics and Project Management. Open to hybrid roles that combine process engineering with data-driven decision making.
