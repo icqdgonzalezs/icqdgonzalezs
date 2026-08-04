@@ -1,105 +1,65 @@
-# David Gonzalez Santibañez
+# David González Santibañez 👨‍🔬📊
 
-🧪 Ingeniero Civil Químico | 📊 Process Engineer | 🤖 Industrial Data Analysis
-
----
-
-## 🇪🇸 Español
-
-### 📌 Sobre mí
-
-Ingeniero Civil Químico con experiencia en Python, análisis de datos e inteligencia artificial aplicada a la ingeniería de procesos. Transformo datos operacionales en decisiones técnicas mediante modelamiento, simulación y automatización de reportes.
-
-### 🔧 Competencias clave
-
-- **Ingeniería de Procesos:** modelado, simulación, balances de masa y energía.
-- **Python industrial:** automatización de reportes, dashboards interactivos, análisis estadístico.
-- **Inteligencia Artificial:** machine learning, deep learning, IA generativa enfocada en procesos.
-- **Indicadores de gestión:** KPIs, OEE, seguimiento de eficiencia.
-- **Control de procesos:** controladores PID, sintonización, simulación dinámica.
-- **Análisis de datos operacionales:** limpieza, visualización, detección de anomalías.
-
-### 📚 Formación complementaria
-
-- 🐍 Programación con Python para Análisis de Datos – SENCE (Pandas, NumPy, Matplotlib, Seaborn)
-- 🤖 Introducción a la Inteligencia Artificial con Python – SENCE (fundamentos de ML supervisado y no supervisado)
-- 🧠 Especialización autodidacta en Machine Learning e IA: redes neuronales, NLP, LangChain, modelos predictivos
-
-### 🛠️ Proyectos
-
-⚖️ **Balances and Operations**
-Cálculo de balances de masa y energía, operaciones unitarias y análisis de procesos químicos implementados completamente en Python. Código modular y extensible a nuevos casos de estudio.
-
-🏭 **Production Line Simulation**
-Simulación completa de una línea de producción con métricas de OEE, KPIs industriales, análisis de mantenimiento y consumo energético. Incluye un dashboard interactivo desarrollado en Streamlit para la exploración de escenarios operativos.
-
-🔧 **Predictive Maintenance** *(en desarrollo)*
-Sistema de mantenimiento predictivo para equipos rotativos basado en machine learning (XGBoost, LSTM) entrenado con datos operacionales simulados. Identifica patrones previos a fallas.
-
-🤖 **GenAI Process Analyst** *(en desarrollo)*
-Asistente conversacional inteligente que interpreta datos de planta desde archivos CSV y responde preguntas sobre KPIs, eficiencia y anomalías. Construido con LangChain, OpenAI y Streamlit.
-
-📋 **Otros proyectos realizados:**
-- Dashboard de indicadores industriales
-- Control PID de procesos en Python
-- Análisis de datos operacionales de planta
-- Optimización de producción mediante modelos matemáticos
-
-### 🎯 Objetivo profesional
-
-Consolidarme como Ingeniero de Procesos especializado en Inteligencia Artificial, integrando análisis masivo de datos, modelado predictivo y automatización con Python para mejorar el desempeño de plantas industriales y la toma de decisiones técnicas.
+📍 San Fernando, Chile | [LinkedIn](https://linkedin.com/in/davidgonzalezsz) | [Email](mailto:icq.dgonzalezs@gmail.com)
 
 ---
 
-## 🇺🇸 English
+### 🧪 Ingeniero Civil Químico & Data Analytics
 
-### 📌 About me
+**Transformo datos de planta en decisiones que aumentan eficiencia y reducen pérdidas.**  
+Mi experiencia en procesos industriales, calidad (HACCP, BPM) y mejora continua (Lean Six Sigma, RCA) se potencia con herramientas modernas de análisis de datos (Python, SQL, Power BI) y gestión de proyectos (Google PM, Scrum) para construir dashboards, automatizar reportes y liderar equipos de mejora.
 
-Chemical Process Engineer experienced in Python, data analysis and artificial intelligence applied to process engineering. I turn operational data into technical decisions through modeling, simulation and report automation.
-
-### 🔧 Key competencies
-
-- **Process Engineering:** modeling, simulation, mass and energy balances.
-- **Industrial Python:** report automation, interactive dashboards, statistical analysis.
-- **Artificial Intelligence:** machine learning, deep learning, generative AI focused on processes.
-- **Management indicators:** KPIs, OEE, efficiency tracking.
-- **Process control:** PID controllers, tuning, dynamic simulation.
-- **Operational data analysis:** cleaning, visualization, anomaly detection.
-
-### 📚 Additional training
-
-- 🐍 Python for Data Analysis – SENCE (Pandas, NumPy, Matplotlib, Seaborn)
-- 🤖 Introduction to Artificial Intelligence with Python – SENCE (supervised and unsupervised ML fundamentals)
-- 🧠 Self-directed specialization in Machine Learning and AI: neural networks, NLP, LangChain, predictive models
-
-### 🛠️ Projects
-
-⚖️ **Balances and Operations**
-Mass and energy balance calculations, unit operations and chemical process analysis fully implemented in Python. Modular code, easy to extend to new case studies.
-
-🏭 **Production Line Simulation**
-Complete production line simulation with OEE metrics, industrial KPIs, maintenance analysis and energy consumption. Features an interactive dashboard built with Streamlit for operational scenario exploration.
-
-🔧 **Predictive Maintenance** *(under development)*
-Predictive maintenance system for rotating equipment based on machine learning (XGBoost, LSTM) trained on simulated operational data. Identifies failure patterns in advance.
-
-🤖 **GenAI Process Analyst** *(under development)*
-Intelligent conversational assistant that interprets plant data from CSV files and answers questions about KPIs, efficiency and anomalies. Built with LangChain, OpenAI and Streamlit.
-
-📋 **Other completed projects:**
-- Industrial KPI Dashboard
-- PID Process Control in Python
-- Plant Operational Data Analysis
-- Production Optimization through mathematical models
-
-### 🎯 Professional goal
-
-To establish myself as a Process Engineer specialized in Artificial Intelligence, integrating massive data analysis, predictive modeling and Python automation to improve industrial plant performance and technical decision-making.
+> *"Combino ingeniería de procesos, ciencia de datos y gestión de proyectos para resolver problemas reales de manufactura."*
 
 ---
 
-## ✉️ Contacto · Contact
+### ⚙️ Competencias Clave
 
-🧪 Ingeniero Civil Químico  
-👤 David Camilo González Santibañez  
-📧 icq.dgonzalezs@gmail.com
+| Área | Herramientas / Habilidades |
+|------|----------------------------|
+| **Ingeniería de Procesos** | Balance de masa/energía, PFD, P&ID, simulación, optimización |
+| **Calidad & Mejora Continua** | HACCP, BPM, RCA, Ishikawa, DMAIC, SMED, Lean Manufacturing |
+| **Data Analytics & BI** | Python (Pandas, NumPy, Plotly, Seaborn), SQL, Power BI, Excel Avanzado |
+| **Dashboarding & Reporting** | Streamlit, Power BI, Plotly Dash, reportes automatizados |
+| **Project Management** | Metodologías ágiles (Scrum/Kanban), Microsoft Project, Google Project Management |
+| **Control de Procesos** | PID, sintonización, simulación dinámica |
+| **Sustentabilidad** | Huella de carbono ISO 14064, inventarios GEI, MRV |
+
+---
+
+### 🛠️ Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [**Quality KPI Dashboard**](https://github.com/icqdgonzalezs/quality-kpi-dashboard) | Panel interactivo de monitoreo de calidad en línea de producción. KPIs en tiempo real, Pareto y alertas. | Python, Streamlit, Plotly |
+| [**Simulación Línea de Producción**](https://github.com/icqdgonzalezs/simulacion-linea-produccion) | Simulador de línea productiva con OEE, consumo energético y dashboard interactivo. | Python, Streamlit, HTML |
+| [**Balances y Operaciones**](https://github.com/icqdgonzalezs/balances-y-operaciones) | Cálculo de balances de masa y energía, operaciones unitarias en Python. | Python, NumPy, Matplotlib |
+| [**GenAI Process Analyst**](https://github.com/icqdgonzalezs/genai-process-analyst) *(en desarrollo)* | Asistente IA conversacional para análisis de KPIs industriales con LangChain + Streamlit. | Python, LangChain, OpenAI |
+
+---
+
+### 🎓 Formación Continua
+
+- 🟡 **Google Data Analytics Professional Certificate** – Coursera *(en curso)*  
+- 🟡 **Google Project Management Professional Certificate** – Coursera *(en curso)*  
+- ✅ **Diplomado MRV de Emisiones GEI (ISO 14064)** – PUCV – CORFO  
+- ✅ **Bootcamp Fundamentos de Análisis de Datos** – SENCE  
+- ✅ **Introducción a la IA con Python** – SENCE  
+
+---
+
+### 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Gonzalez-blue?style=flat&logo=linkedin)](https://linkedin.com/in/davidgonzalezsz)
+[![GitHub](https://img.shields.io/badge/GitHub-icqdgonzalezs-black?style=flat&logo=github)](https://github.com/icqdgonzalezs)
+[![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-red?style=flat&logo=gmail)](mailto:icq.dgonzalezs@gmail.com)
+
+---
+
+*Abierto a oportunidades como **Ingeniero de Procesos**, **Analista de Datos Industrial** o **Project Manager Junior**.*
+
+---
+
+### 🇺🇸 In a nutshell
+
+Chemical Process Engineer transitioning into **Data Analytics & Project Management**. I build industrial dashboards with Python (Streamlit, Plotly), automate KPI reporting, and apply Lean Six Sigma to reduce losses. Currently pursuing Google certifications in Data Analytics and Project Management. Open to hybrid roles that combine process engineering with data-driven decision making.
