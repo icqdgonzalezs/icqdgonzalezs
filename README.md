@@ -7,7 +7,7 @@
 ### 🧪 Ingeniero Civil Químico & Data Analytics
 
 **Transformo datos de planta en decisiones que aumentan eficiencia y reducen pérdidas.**  
-Mi experiencia en procesos industriales, calidad (HACCP, BPM) y mejora continua (Lean Six Sigma, RCA) se potencia con herramientas modernas de análisis de datos (Python, SQL, Power BI) y gestión de proyectos (Google PM, Scrum) para construir dashboards, automatizar reportes y liderar equipos de mejora.
+Mi experiencia en mejora continua (RCA, Lean Six Sigma), calidad (HACCP, BPM) y coordinación de equipos se potencia con herramientas modernas de datos (Python, SQL, Power BI) y gestión de proyectos (Google PM, Scrum). Construyo dashboards, automatizo reportes y estandarizo procesos para atacar cuellos de botella y mejorar KPIs operacionales.
 
 > *"Combino ingeniería de procesos, ciencia de datos y gestión de proyectos para resolver problemas reales de manufactura."*
 
@@ -17,10 +17,10 @@ Mi experiencia en procesos industriales, calidad (HACCP, BPM) y mejora continua 
 
 | Área | Herramientas / Habilidades |
 |------|----------------------------|
-| **Ingeniería de Procesos** | Balance de masa/energía, PFD, P&ID, simulación, optimización |
-| **Calidad & Mejora Continua** | HACCP, BPM, RCA, Ishikawa, DMAIC, SMED, Lean Manufacturing |
-| **Data Analytics & BI** | Python (Pandas, NumPy, Plotly, Seaborn), SQL, Power BI, Excel Avanzado |
-| **Dashboarding & Reporting** | Streamlit, Power BI, Plotly Dash, reportes automatizados |
+| **Ingeniería de Procesos** | PFD, balance de líneas, capacidad operativa, estandarización (POE) |
+| **Calidad & Mejora Continua** | HACCP, BPM, RCA (5 Why, Ishikawa), DMAIC, SMED, Lean Manufacturing |
+| **Data Analytics & BI** | Python (Pandas, NumPy, Plotly, Seaborn), SQL (pgAdmin), Power BI, Excel Avanzado |
+| **Dashboarding & Reporting** | Streamlit, Power BI, Excel (paneles de control), reportes automatizados |
 | **Project Management** | Metodologías ágiles (Scrum/Kanban), Microsoft Project, Google Project Management |
 | **Control de Procesos** | PID, sintonización, simulación dinámica |
 | **Sustentabilidad** | Huella de carbono ISO 14064, inventarios GEI, MRV |
@@ -42,9 +42,11 @@ Mi experiencia en procesos industriales, calidad (HACCP, BPM) y mejora continua 
 
 - 🟡 **Google Data Analytics Professional Certificate** – Coursera *(en curso)*  
 - 🟡 **Google Project Management Professional Certificate** – Coursera *(en curso)*  
-- ✅ **Diplomado MRV de Emisiones GEI (ISO 14064)** – PUCV – CORFO  
+- 🟡 **Diplomado MRV de Emisiones GEI (ISO 14064)** – PUCV – CORFO *(en curso)*  
 - ✅ **Bootcamp Fundamentos de Análisis de Datos** – SENCE  
-- ✅ **Introducción a la IA con Python** – SENCE  
+- ✅ **Introducción a la Programación en Python I** – PUCV  
+- ✅ **Metodologías Ágiles (Scrum/Kanban)** – IBM  
+- ✅ **Introduction Six Sigma** – Kennesaw State University  
 
 ---
 
@@ -62,4 +64,4 @@ Mi experiencia en procesos industriales, calidad (HACCP, BPM) y mejora continua 
 
 ### 🇺🇸 In a nutshell
 
-Chemical Process Engineer transitioning into **Data Analytics & Project Management**. I build industrial dashboards with Python (Streamlit, Plotly), automate KPI reporting, and apply Lean Six Sigma to reduce losses. Currently pursuing Google certifications in Data Analytics and Project Management. Open to hybrid roles that combine process engineering with data-driven decision making.
+Chemical Process Engineer transitioning into **Data Analytics & Project Management**. I build industrial dashboards with Python (Streamlit, Plotly), automate KPI reporting, and apply Lean Six Sigma & RCA to reduce operational losses. Currently pursuing Google certifications in Data Analytics and Project Management. Open to hybrid roles that combine process engineering with data-driven decision making.
