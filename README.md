@@ -30,14 +30,14 @@ Combino **modelos de simulación, dashboards interactivos y metodologías Lean/D
 
 ### 📂 Portafolio Industrial Analytics
 
-> *Todos mis proyectos están organizados dentro del repositorio* [**Industrial-Analytics-Portafolio**](https://github.com/icqdgonzalezs/Industrial-Analytics-Portafolio).
+> *Proyectos aplicados de Ingeniería de Procesos y Data Analytics, cada uno en su propio repositorio.*
 
 | # | Proyecto | Problema de negocio que resuelve | Stack |
 | :--- | :--- | :--- | :--- |
 | **01** | [**Quality KPI Dashboard**](https://github.com/icqdgonzalezs/quality-kpi-dashboard) | **Reducción de mermas por calidad**. Detecta desviaciones en línea de producción en tiempo real, reduciendo el tiempo de reacción del operador en un **60%** y bajando los costos de reproceso. | Python, Streamlit, Plotly |
-| **02** | [**Simulación Línea de Producción**](https://github.com/icqdgonzalezs/simulacion-linea-produccion) | **Optimización de cuellos de botella**. Simulación Montecarlo que calcula el OEE máximo teórico y sugiere la asignación óptima de operarios para aumentar el throughput sin invertir en nueva maquinaria. | Python, Streamlit, Plotly |
-| **03** | [**Balances y Operaciones**](https://github.com/icqdgonzalezs/balances-y-operaciones) | **Escalamiento de procesos**. Automatiza balances de materia y energía en estado estacionario para escalar procesos batch desde laboratorio a planta piloto. | Python, NumPy, Matplotlib |
-| **04** | [**GenAI Process Analyst**](https://github.com/icqdgonzalezs/genai-process-analyst) *(en desarrollo)* | **Asistente inteligente para toma de decisiones**. Permite consultar KPIs históricos en lenguaje natural usando IA generativa (LangChain + OpenAI). | Python, LangChain, OpenAI |
+| **02** | [**Simulación Línea de Producción**](https://github.com/icqdgonzalezs/Production-line-simulation) | **Optimización de cuellos de botella**. Simulación Montecarlo que calcula el OEE máximo teórico y sugiere la asignación óptima de operarios para aumentar el throughput sin invertir en nueva maquinaria. | Python, Streamlit, Plotly |
+| **03** | [**Balances y Operaciones**](https://github.com/icqdgonzalezs/Balances-and-Operations) | **Escalamiento de procesos**. Automatiza balances de materia y energía en estado estacionario para escalar procesos batch desde laboratorio a planta piloto. | Python, NumPy, Matplotlib |
+| **04** | **GenAI Process Analyst** *(en desarrollo)* | **Asistente inteligente para toma de decisiones**. Permite consultar KPIs históricos en lenguaje natural usando IA generativa (LangChain + OpenAI). | Python, LangChain, OpenAI |
 
 ---
 
