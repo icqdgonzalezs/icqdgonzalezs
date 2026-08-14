@@ -1,10 +1,6 @@
-<div align="center">
-
 # David González Santibáñez 🏭📊
 
 📍 San Fernando, Chile | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz) | [![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
-
-</div>
 
 ---
 
@@ -14,9 +10,7 @@
 
 Combino **modelos de simulación, dashboards interactivos y metodologías Lean/DMAIC** para atacar cuellos de botella, estandarizar operaciones y transformar datos crudos en decisiones ejecutivas. Mi enfoque está en el sector **agroindustrial y alimentos**, donde he aplicado estándares HACCP/BPM para garantizar calidad y trazabilidad.
 
-<p align="center">
-  <em>"No construyo dashboards bonitos. Construyo herramientas que reducen mermas, optimizan el OEE y bajan la huella de carbono."</em>
-</p>
+> *"No construyo dashboards bonitos. Construyo herramientas que reducen mermas, optimizan el OEE y bajan la huella de carbono."*
 
 ---
 
@@ -113,13 +107,9 @@ Estoy especialmente interesado en desarrollar soluciones donde distintas discipl
 
 ### 🌐 Conecta conmigo
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz)
 [![GitHub](https://img.shields.io/badge/GitHub-icqdgonzalezs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icqdgonzalezs)
 [![Gmail](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
-
-</div>
 
 ---
 
