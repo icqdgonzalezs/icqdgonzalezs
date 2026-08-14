@@ -10,7 +10,7 @@
 
 Combino **modelos de simulación, dashboards interactivos y metodologías Lean/DMAIC** para atacar cuellos de botella, estandarizar operaciones y transformar datos crudos en decisiones ejecutivas. Mi enfoque está en el sector **agroindustrial y alimentos**, donde he aplicado estándares HACCP/BPM para garantizar calidad y trazabilidad.
 
-> *"No construyo dashboards bonitos. Construyo herramientas que reducen mermas, optimizan el OEE y bajan la huella de carbono."*
+> *"No me limito a visualizar datos. Los convierto en decisiones que mejoran procesos, reducen pérdidas y generan impacto."*
 
 ---
 
