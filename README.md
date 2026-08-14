@@ -103,9 +103,7 @@ Esta formación complementa mi perfil de análisis de datos e ingeniería de pro
 
 ### 🧠 Enfoque de trabajo
 
-<p align="center">
-  <strong>Curiosidad → Investigación → Datos → Evidencia → Análisis → Comunicación → Impacto</strong>
-</p>
+> **Curiosidad → Investigación → Datos → Evidencia → Análisis → Comunicación → Impacto**
 
 Me caracterizo por un enfoque **analítico, meticuloso y orientado a la resolución de problemas**. Cuando trabajo con información, priorizo la trazabilidad de los datos, la revisión crítica de los resultados y la comunicación clara de las conclusiones.
 
