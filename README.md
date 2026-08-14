@@ -1,6 +1,10 @@
+<div align="center">
+
 # David González Santibáñez 🏭📊
 
-📍 San Fernando, Chile | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/davidgonzalezsz) | [![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
+📍 San Fernando, Chile | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz) | [![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
+
+</div>
 
 ---
 
@@ -10,7 +14,11 @@
 
 Combino **modelos de simulación, dashboards interactivos y metodologías Lean/DMAIC** para atacar cuellos de botella, estandarizar operaciones y transformar datos crudos en decisiones ejecutivas. Mi enfoque está en el sector **agroindustrial y alimentos**, donde he aplicado estándares HACCP/BPM para garantizar calidad y trazabilidad.
 
-> *"No construyo dashboards bonitos. Construyo herramientas que reducen mermas, optimizan el OEE y bajan la huella de carbono."*
+<p align="center">
+  <em>"No construyo dashboards bonitos. Construyo herramientas que reducen mermas, optimizan el OEE y bajan la huella de carbono."</em>
+</p>
+
+---
 
 ### 🔎 Investigación, datos y evidencia
 
@@ -18,13 +26,13 @@ Mi experiencia combina **ingeniería, análisis cuantitativo, documentación té
 
 Tengo experiencia en:
 
-* **Investigación y sistematización de información técnica**, transformando información compleja en insumos claros para la toma de decisiones.
-* **Análisis cuantitativo y visualización de datos** mediante Python, SQL, Power BI y Excel.
-* **Control de calidad y verificación de información**, con foco en trazabilidad, consistencia y precisión.
-* **Redacción y documentación técnica**, incluyendo procedimientos, reportes y documentación asociada a HACCP, BPM y POES.
-* **Análisis de causa raíz y resolución estructurada de problemas**, utilizando RCA, 5 Why, Ishikawa y metodologías DMAIC.
-* **Cambio climático y medición de emisiones**, mediante formación especializada en MRV de GEI e ISO 14064.
-* **Comunicación de resultados**, mediante dashboards, informes y visualizaciones orientadas a públicos técnicos y no técnicos.
+- **Investigación y sistematización de información técnica**, transformando información compleja en insumos claros para la toma de decisiones.
+- **Análisis cuantitativo y visualización de datos** mediante Python, SQL, Power BI y Excel.
+- **Control de calidad y verificación de información**, con foco en trazabilidad, consistencia y precisión.
+- **Redacción y documentación técnica**, incluyendo procedimientos, reportes y documentación asociada a HACCP, BPM y POES.
+- **Análisis de causa raíz y resolución estructurada de problemas**, utilizando RCA, 5 Why, Ishikawa y metodologías DMAIC.
+- **Cambio climático y medición de emisiones**, mediante formación especializada en MRV de GEI e ISO 14064.
+- **Comunicación de resultados**, mediante dashboards, informes y visualizaciones orientadas a públicos técnicos y no técnicos.
 
 Mi objetivo es seguir desarrollando un perfil interdisciplinario que conecte **datos, investigación, resiliencia climática y toma de decisiones basada en evidencia**.
 
@@ -95,7 +103,9 @@ Esta formación complementa mi perfil de análisis de datos e ingeniería de pro
 
 ### 🧠 Enfoque de trabajo
 
-> **Curiosidad → Investigación → Datos → Evidencia → Análisis → Comunicación → Impacto**
+<p align="center">
+  <strong>Curiosidad → Investigación → Datos → Evidencia → Análisis → Comunicación → Impacto</strong>
+</p>
 
 Me caracterizo por un enfoque **analítico, meticuloso y orientado a la resolución de problemas**. Cuando trabajo con información, priorizo la trazabilidad de los datos, la revisión crítica de los resultados y la comunicación clara de las conclusiones.
 
@@ -105,9 +115,13 @@ Estoy especialmente interesado en desarrollar soluciones donde distintas discipl
 
 ### 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Gonzalez-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/davidgonzalezsz)
-[![GitHub](https://img.shields.io/badge/GitHub-icqdgonzalezs-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/icqdgonzalezs)
-[![Gmail](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz)
+[![GitHub](https://img.shields.io/badge/GitHub-icqdgonzalezs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icqdgonzalezs)
+[![Gmail](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
+
+</div>
 
 ---
 
