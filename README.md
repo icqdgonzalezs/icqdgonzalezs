@@ -151,6 +151,8 @@ La plataforma busca responder preguntas concretas de una operación industrial:
 > Colección de proyectos técnicos desarrollados durante mi formación en análisis de datos. Los trabajos muestran la evolución de competencias en **Python, preparación de datos, análisis exploratorio, estadística y SQL**.
 >
 > Esta colección forma parte de mi formación en **Fundamentos de Análisis de Datos — SENCE** y constituye evidencia práctica de mi desarrollo técnico.
+>
+> Los proyectos se presentan como evidencia aplicada de las competencias adquiridas y complementan los proyectos principales de **Industrial Operations Intelligence**.
 
 | # | Proyecto | Competencia principal | Repositorio |
 | :---: | :--- | :--- | :--- |
@@ -162,6 +164,31 @@ La plataforma busca responder preguntas concretas de una operación industrial:
 | **06** | [**SQL Database Engineering**](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-06-SQL) | Diseño y manipulación de bases de datos relacionales | [Ver proyecto →](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-06-SQL) |
 
 > **Learning Path:** Python → Data Preparation → EDA → Statistics → SQL
+
+---
+
+### ⭐ Evidencia técnica destacada
+
+Uno de los objetivos de este portafolio es presentar **evidencia verificable de las competencias desarrolladas**, no solamente enumerar herramientas o conocimientos.
+
+#### 🗄️ SQL Database Engineering
+
+[**Ver Prueba-06-SQL →**](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-06-SQL)
+
+Proyecto orientado al **diseño y manipulación de una base de datos relacional**, incluyendo:
+
+- Diseño de tablas y estructura de datos.
+- Definición de claves y restricciones de integridad.
+- Validación de datos mediante `CHECK`, `UNIQUE` y `NOT NULL`.
+- Inserción y manipulación controlada de registros.
+- Operaciones `UPDATE` y `DELETE`.
+- Uso de transacciones para proteger operaciones críticas.
+- Verificación de resultados mediante consultas SQL.
+- Documentación y evidencia visual del proceso.
+
+**Competencias demostradas:** SQL · Modelamiento relacional · Integridad de datos · Validación · Manipulación de datos · Documentación técnica.
+
+> **La evidencia técnica debe mostrar no solo qué herramienta utilizo, sino cómo la aplico para resolver un problema y validar el resultado.**
 
 ---
 
