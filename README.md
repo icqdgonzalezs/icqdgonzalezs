@@ -71,6 +71,21 @@ Estoy particularmente interesado en proyectos que conecten **evidencia científi
 
 ---
 
+### 🧪 Pruebas Técnicas — Bootcamp Fundamentos de Análisis de Datos (SENCE)
+
+> Todas las evaluaciones técnicas del bootcamp están en el repositorio [**Sence-talentodigital-pruebas**](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas).
+
+| # | Prueba | Tema |
+|---|--------|------|
+| ⭐ **06** | **[Diseño y manipulación de tablas SQL](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-06-SQL)** | **Evidencia principal de este portafolio** — incluye validación de RUT chileno, transacciones seguras (BEGIN/COMMIT) e integración con módulo de ventas/clientes |
+| 05 | [Inferencia Estadística](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-05-Inferencia-Estadística) | Estadística inferencial aplicada |
+| 04 | [Análisis Exploratorio](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-04-Análisis-Exploratorio) | EDA |
+| 03 | [Preparación de Datos](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-03-Preparacion-Datos) | Limpieza y preparación |
+| 02 | [Videojuegos Retro](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-02-Videojuegos-Retro) | Python orientado a objetos |
+| 01 | [Análisis de Datos](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-01-Análisis-Datos) | Fundamentos |
+
+---
+
 ### 🌱 Climate & GHG Analytics
 
 **Diplomado MRV de Emisiones GEI – PUCV / CORFO**
