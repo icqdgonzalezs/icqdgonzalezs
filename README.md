@@ -1,6 +1,6 @@
 # Hola, soy David González Santibáñez 👋
 
-**Ingeniero Civil Químico → Software Developer | Industrial Data Analytics**
+**Ingeniero Civil Químico | Industrial Data Analytics | Software Developer**
 
 📍 San Fernando, Chile · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz) · [![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
 
@@ -10,6 +10,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)]()
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)]()
 
 ---
 
