@@ -23,7 +23,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![SimPy](https://img.shields.io/badge/SimPy-3776AB?style=flat&logo=python&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/MS_Project-31752F?style=flat&logo=microsoftproject&logoColor=white)
 
 ---
 
@@ -72,6 +71,21 @@ Combino **ingeniería de procesos + analítica + software** para construir aplic
 | **03** | Predictive Maintenance Intelligence | ¿Qué podría fallar? | 🚧 |
 | **04** | Industrial Process Optimizer | ¿Cuál es la mejor alternativa? | 🚧 |
 | **05** | Industrial AI Copilot | ¿Qué debería investigar? | 🚧 |
+
+---
+
+### 📚 Formación técnica — SENCE
+
+Bootcamp **Fundamentos de Análisis de Datos** (Beca Talento Digital SENCE) · 6 proyectos aplicados:
+
+| # | Proyecto | Competencia | Link |
+| :---: | :--- | :--- | :---: |
+| 01 | Data Analysis Fundamentals | Análisis y exploración de datos | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-01-Análisis-Datos) |
+| 02 | Retro Video Games | Python + POO | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-02-Videojuegos-Retro) |
+| 03 | Data Preparation | Limpieza y transformación | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-03-Preparacion-Datos) |
+| 04 | Exploratory Data Analysis | EDA · visualización | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-04-Análisis-Exploratorio) |
+| 05 | Statistical Inference | Estadística inferencial | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-05-Inferencia-Estadística) |
+| 06 | SQL Database Engineering | Diseño BDD · integridad · transacciones | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-06-SQL) |
 
 ---
 
