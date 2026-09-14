@@ -56,7 +56,7 @@ Ecosistema de soluciones para operaciones industriales. **Roadmap: Analyze → S
 | # | Proyecto | Pregunta de negocio | Stack | Estado |
 | :---: | :--- | :--- | :--- | :---: |
 | **01** | [**Industrial KPI Intelligence**](https://github.com/icqdgonzalezs/industrial-kpi-intelligence) | ¿Qué está ocurriendo? · OEE, Pp/Ppk, control estadístico, Pareto, drill-down | Python · Dash · pytest · GH Actions | ✅ |
-| **02** | [**Production Digital Twin**](https://github.com/icqdgonzalezs/Production-line-simulation) | ¿Qué podría ocurrir? · Simulación de línea, cuellos de botella (OEE 61.8 %) | Python · SimPy · NumPy | ✅ |
+| **02** | [**Production Digital Twin**](https://github.com/icqdgonzalezs/Production-line-simulation) | ¿Qué podría ocurrir? · Simulación de línea, cuellos de botella (OEE 61.8 % vs. meta 85 %) | Python · SimPy · NumPy | ✅ |
 | **03** | Predictive Maintenance Intelligence | ¿Qué podría fallar? | Python · Scikit-learn · SQL | 🚧 |
 | **04** | Industrial Process Optimizer | ¿Cuál es la mejor alternativa? | Python · SciPy · OR-Tools | 🚧 |
 | **05** | Industrial AI Copilot | ¿Qué debería investigar o decidir? | Python · LLM · RAG | 🚧 |
@@ -69,7 +69,7 @@ Ecosistema de soluciones para operaciones industriales. **Roadmap: Analyze → S
 
 **[github.com/icqdgonzalezs/industrial-kpi-intelligence](https://github.com/icqdgonzalezs/industrial-kpi-intelligence)**
 
-Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calidad y OEE en plantas multiproducto.
+Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calidad y OEE en plantas multiproducto, siguiendo estándares **ISA-95 / TPM / NIST 6.1.3 / ISO 22514 / OWASP**.
 
 | Dimensión | Evidencia |
 | :--- | :--- |
@@ -77,14 +77,35 @@ Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calida
 | **CI/CD** | ✅ GitHub Actions · **2/2 checks verdes** antes de merge |
 | **Arquitectura** | ✅ `src/` / `dashboard/` / `tests/` · ADRs · patrón strangler · SSOT |
 | **Estándares** | ✅ ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · OWASP |
-| **Módulos** | OEE · Pp/Ppk · Control Estadístico (I-MR + Western Electric) · Pareto · Drill-down operacional · Calidad |
+| **Módulos** | OEE · Pp/Ppk · Control Estadístico (I-MR + Western Electric) · Pareto · Drill-down operacional · Calidad (FPY, scrap, defectos) |
 | **Config** | YAML externalizado · sin hardcoding |
+| **Migración** | Patrón strangler (ADR-0001) para esquemas EN→ES |
 
-> *El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales.*
+> *El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales aplicados.*
 
 ---
 
-### 🧩 Áreas de especialización
+<details>
+<summary><b>🏭 Production Digital Twin — detalle</b></summary>
+
+<br/>
+
+**[github.com/icqdgonzalezs/Production-line-simulation](https://github.com/icqdgonzalezs/Production-line-simulation)**
+
+Simulación de eventos discretos de una línea de envasado industrial (Python · SimPy · pytest).
+
+- Arquitectura modular · **interfaz CLI configurable** · **11 pruebas unitarias** con pytest.
+- Identificó la **etiquetadora** como cuello de botella principal: **OEE 61.8 %** vs. meta 85 %.
+- Dashboards interactivos y reportes automatizados de KPIs y restricciones de capacidad.
+
+</details>
+
+---
+
+<details>
+<summary><b>🧩 Áreas de especialización</b></summary>
+
+<br/>
 
 | Área | Enfoque |
 | :--- | :--- |
@@ -98,9 +119,12 @@ Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calida
 | **Mejora Continua** | Lean · DMAIC · RCA · 5 Why · Ishikawa · SMED |
 | **Climate & GHG Analytics** | MRV · emisiones GEI · trazabilidad · sostenibilidad · ISO 14064 |
 
----
+</details>
 
-### ⚙️ Competencias técnicas
+<details>
+<summary><b>⚙️ Competencias técnicas</b></summary>
+
+<br/>
 
 | Categoría | Herramientas / Habilidades |
 | :--- | :--- |
@@ -115,9 +139,12 @@ Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calida
 | **Gestión** | SAP PP/MM · Scrum · Kanban · Microsoft Project |
 | **Sustentabilidad** | MRV · inventarios GEI · huella de carbono · ISO 14064 |
 
----
+</details>
 
-### 🛠️ Prácticas de Ingeniería de Software
+<details>
+<summary><b>🛠️ Prácticas de Ingeniería de Software</b></summary>
+
+<br/>
 
 | Práctica | Implementación |
 | :--- | :--- |
@@ -130,9 +157,30 @@ Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calida
 | **Configuración externalizada** | YAML para umbrales, límites y parámetros |
 | **Estándares industriales** | ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · OWASP |
 
----
+</details>
 
-### 📚 Formación técnica — SENCE
+<details>
+<summary><b>⭐ Evidencia técnica — Industrial KPI Intelligence (Software Engineering)</b></summary>
+
+<br/>
+
+Dashboard industrial con **Plotly Dash 4.4.1 + Python 3.11** siguiendo estándares **ISA-95 / TPM / NIST 6.1.3 / ISO 22514 / OWASP**:
+
+- **279+ tests automatizados** con pytest.
+- **CI/CD con GitHub Actions** — 2/2 checks verdes antes de merge.
+- **Arquitectura modular:** `src/` / `dashboard/` / `tests/`.
+- **Patrón strangler** (ADR-0001) para migración incremental de esquemas EN→ES.
+- **Configuración externalizada** en YAML.
+- **Módulos:** OEE · Pp/Ppk (Capacidad) · Control Estadístico (I-MR + Western Electric) · Pareto · drill-down operacional · Calidad (FPY, scrap, defectos).
+
+> *El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales aplicados.*
+
+</details>
+
+<details>
+<summary><b>📚 Formación técnica — SENCE</b></summary>
+
+<br/>
 
 Bootcamp **Fundamentos de Análisis de Datos** (Beca Talento Digital SENCE).
 
@@ -142,17 +190,23 @@ Bootcamp **Fundamentos de Análisis de Datos** (Beca Talento Digital SENCE).
 
 Competencias: análisis y exploración de datos · Python + POO · limpieza y transformación · EDA y visualización · estadística inferencial · diseño de bases de datos relacionales.
 
----
+</details>
 
-### 🌱 Climate & GHG Analytics
+<details>
+<summary><b>🌱 Climate & GHG Analytics</b></summary>
+
+<br/>
 
 **Diplomado MRV de Emisiones GEI — PUCV / CORFO**
 
 Línea de especialización que conecta Ingeniería de Procesos y Data Analytics con **emisiones de Gases de Efecto Invernadero, sostenibilidad y cambio climático**. Formación en **Medición, Reporte y Verificación (MRV)** y fundamentos **ISO 14064**.
 
----
+</details>
 
-### 🎓 Formación y Certificaciones
+<details>
+<summary><b>🎓 Formación y Certificaciones</b></summary>
+
+<br/>
 
 | Estado | Programa | Institución |
 | :---: | :--- | :--- |
@@ -165,9 +219,12 @@ Línea de especialización que conecta Ingeniería de Procesos y Data Analytics 
 | ✅ | **Metodologías Ágiles (Scrum/Kanban)** | IBM |
 | ✅ | **Introduction to Six Sigma** | Kennesaw State University |
 
----
+</details>
 
-### 🧠 Enfoque de trabajo
+<details>
+<summary><b>🧠 Enfoque de trabajo</b></summary>
+
+<br/>
 
 > **Problema → Investigación → Datos → Evidencia → Análisis → Software → Modelamiento → Comunicación → Decisión**
 
@@ -180,9 +237,12 @@ Priorizo:
 
 Mi diferencial: **entiendo el proceso industrial Y construyo el software que lo analiza**. No necesito traducción entre negocio e implementación técnica — hablo los dos idiomas.
 
----
+</details>
 
-### 🇺🇸 English Summary
+<details>
+<summary><b>🇺🇸 English Summary</b></summary>
+
+<br/>
 
 Chemical Process Engineer with professional experience in **process optimization, operational KPIs and industrial projects** (food, water, manufacturing). I combine **process engineering, data analytics and software development** to build industrial applications with **testing (pytest), CI/CD (GitHub Actions), modular architecture (src/dashboard/tests), ADRs, and industrial standards (ISA-95, TPM, NIST 6.1.3 / ISO 22514, OWASP)**.
 
@@ -191,6 +251,8 @@ Chemical Process Engineer with professional experience in **process optimization
 Background also includes **Lean Six Sigma, root cause analysis, process simulation, and GHG emissions MRV (ISO 14064)**.
 
 > **From operational data to industrial decisions.**
+
+</details>
 
 ---
 
