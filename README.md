@@ -31,6 +31,8 @@ Ingeniero Civil Químico con **experiencia profesional en optimización de proce
 
 Mi objetivo: transformar datos operacionales en evidencia y en software que ayude a entender problemas, evaluar alternativas y apoyar mejores decisiones.
 
+🌱 **Desarrollo de software en modalidad autodidacta** — aprendizaje continuo y autónomo en paralelo a la práctica profesional: cursos online, documentación oficial, construcción de proyectos reales de punta a punta (arquitectura, testing, CI/CD) y aplicación directa de ingeniería de software a problemas industriales.
+
 > **Ingeniería + Datos + Software + Modelamiento + Optimización + Decisión**
 
 ---
@@ -235,6 +237,8 @@ Priorizo:
 
 Mi diferencial: **entiendo el proceso industrial Y construyo el software que lo analiza**. No necesito traducción entre negocio e implementación técnica — hablo los dos idiomas.
 
+**Aprendizaje autodidacta y continuo:** construyo mis habilidades en software de forma autónoma — cursos online, documentación oficial, lectura de código de terceros y proyectos propios desde cero. Cada proyecto del portafolio es un vehículo deliberado de aprendizaje (arquitectura, testing, CI/CD, patrones de diseño).
+
 </details>
 
 <details>
@@ -243,6 +247,8 @@ Mi diferencial: **entiendo el proceso industrial Y construyo el software que lo 
 <br/>
 
 Chemical Process Engineer with professional experience in **process optimization, operational KPIs and industrial projects** (food, water, manufacturing). I combine **process engineering, data analytics and software development** to build industrial applications with **testing (pytest), CI/CD (GitHub Actions), modular architecture (src/dashboard/tests), ADRs, and industrial standards (ISA-95, TPM, NIST 6.1.3 / ISO 22514, OWASP)**.
+
+**Self-taught software developer** — I build these skills autonomously through online courses, official documentation, reading open-source code, and shipping end-to-end projects from scratch. Every portfolio project is a deliberate learning vehicle (architecture, testing, CI/CD, design patterns).
 
 **Stack:** Python 3.11 · Plotly Dash · SQL · Power BI · Excel · SAP · Scikit-learn · SimPy · Git.
 
