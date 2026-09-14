@@ -1,32 +1,28 @@
-# David González Santibáñez 🏭📊
+# David González Santibáñez
+**San Fernando, Chile** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz) | [![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
 
-📍 San Fernando, Chile | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz) | [![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
+### Ingeniero Civil Químico | Industrial Data Analytics | Software Development | Process Improvement
 
----
+**Transformo datos operacionales y conocimiento de ingeniería en soluciones de software para analizar procesos, identificar oportunidades y apoyar decisiones basadas en evidencia.**
 
-### 🧪 Ingeniero Civil Químico | Industrial Data Analytics | Process Improvement
-
-**Transformo datos operacionales y conocimiento de ingeniería en información útil para analizar procesos, identificar oportunidades y apoyar decisiones basadas en evidencia.**
-
-Combino **Ingeniería de Procesos, Data Analytics, Business Intelligence, Simulación, Optimización y Mejora Continua** para desarrollar soluciones digitales aplicadas a problemas industriales.
-
-Mi stack principal incluye **Python, SQL, Power BI y Excel**, complementado con conocimientos en **simulación, estadística, Lean Six Sigma, análisis de causa raíz y documentación técnica**.
+Combino **Ingeniería de Procesos, Data Analytics, Business Intelligence, Desarrollo de Software, Simulación, Optimización y Mejora Continua** para construir aplicaciones y dashboards industriales. Mi stack principal incluye **Python, SQL, Plotly Dash, Power BI y Excel**, complementado con **testing (pytest), CI/CD (GitHub Actions), arquitectura de software, simulación, estadística, Lean Six Sigma, análisis de causa raíz y documentación técnica**.
 
 Mi enfoque profesional se resume en:
 
-> **Ingeniería + Datos + Modelamiento + Optimización + Decisión**
+> **Ingeniería + Datos + Software + Modelamiento + Optimización + Decisión**
 
-> *"Convierto datos operacionales en evidencia para entender problemas, evaluar alternativas y apoyar mejores decisiones."*
+> *"Convierto datos operacionales en evidencia y en software que ayuda a entender problemas, evaluar alternativas y apoyar mejores decisiones."*
 
 ---
 
-### 🔎 Áreas de especialización
+### Áreas de especialización
 
-Mi perfil se encuentra en la intersección entre **ingeniería, datos y transformación digital industrial**.
+Mi perfil se encuentra en la intersección entre **ingeniería de procesos, datos y desarrollo de software**.
 
 | Área | Enfoque |
 | :--- | :--- |
 | **Industrial Data Analytics** | KPIs, OEE, calidad, producción, pérdidas, tendencias y análisis operacional |
+| **Software Development** | Aplicaciones web con Dash/Plotly, testing, CI/CD, arquitectura limpia, diseño de APIs internas |
 | **Business Intelligence** | Power BI, dashboards, reporting y visualización para toma de decisiones |
 | **Ingeniería de Procesos** | Capacidad, balances, cuellos de botella, estandarización y análisis de operación |
 | **Simulación & Modelamiento** | Simulación de procesos, escenarios, variabilidad y análisis de sistemas |
@@ -42,7 +38,11 @@ Mi perfil se encuentra en la intersección entre **ingeniería, datos y transfor
 | Área | Herramientas / Habilidades |
 | :--- | :--- |
 | **Data Analytics & BI** | Python, Pandas, NumPy, SQL, Power BI, Excel Avanzado |
-| **Visualización & Applications** | Power BI, Streamlit, Plotly, Excel y dashboards |
+| **Software Development** | Python 3.11, Plotly Dash 4.4.1, Plotly, programación modular, type hints, PEP8 |
+| **Testing & Calidad de Software** | pytest (279+ tests), ruff, cobertura de lógica de negocio, TDD ligero |
+| **DevOps & CI/CD** | Git, GitHub Actions, conventional commits, ramas feature, 2/2 checks verdes antes de merge |
+| **Arquitectura de Software** | Separación de capas (`src/` / `dashboard/` / `tests/`), ADRs, patrón strangler, SSOT, inyección de dependencias |
+| **Visualización & Applications** | Plotly Dash, Plotly, Streamlit, Power BI, Excel y dashboards interactivos |
 | **Ingeniería de Procesos** | PFD, balances de materia y energía, capacidad operativa, análisis de procesos |
 | **Simulación** | SimPy, Monte Carlo, simulación de procesos y análisis de escenarios |
 | **Optimización** | Análisis de restricciones, optimización de procesos y comparación de escenarios |
@@ -54,36 +54,36 @@ Mi perfil se encuentra en la intersección entre **ingeniería, datos y transfor
 
 ---
 
-### 📂 Portafolio Industrial Analytics
+### Portafolio: Industrial Operations Intelligence
 
 > **Industrial Operations Intelligence** es la línea principal de mi portafolio: un ecosistema de soluciones digitales orientado a **analizar, simular, predecir, optimizar y apoyar decisiones en operaciones industriales**.
 >
 > Cada proyecto se desarrolla en su propio repositorio y representa una capacidad específica dentro de una misma narrativa profesional.
 
 ```text
-                  INDUSTRIAL OPERATIONS INTELLIGENCE
-                               │
-                               ▼
-                        INDUSTRIAL DATA
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-           ANALYZE          SIMULATE          MONITOR
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                            PREDICT
-                               │
-                               ▼
-                           OPTIMIZE
-                               │
-                               ▼
-                            DECIDE
+INDUSTRIAL OPERATIONS INTELLIGENCE
+            │
+            ▼
+    INDUSTRIAL DATA
+            │
+   ┌────────┼────────┐
+   ▼        ▼        ▼
+ANALYZE  SIMULATE  MONITOR
+   │        │        │
+   └────────┼────────┘
+            ▼
+         PREDICT
+            │
+            ▼
+        OPTIMIZE
+            │
+            ▼
+         DECIDE
 ```
 
 | # | Proyecto | Problema de negocio / objetivo | Stack |
 | :---: | :--- | :--- | :--- |
-| **01** | [**Industrial KPI Intelligence**](https://github.com/icqdgonzalezs/quality-kpi-dashboard) | **¿Qué está ocurriendo?** Convierte datos operacionales en KPIs para analizar producción, calidad, pérdidas, disponibilidad y desempeño. | Python, Pandas, Power BI, Streamlit |
+| **01** | [**Industrial KPI Intelligence**](https://github.com/icqdgonzalezs/industrial-kpi-intelligence) | **¿Qué está ocurriendo?** Dashboard industrial (ISA-95/TPM) para analizar producción, calidad, pérdidas, disponibilidad y desempeño con OEE, Pp/Ppk y control estadístico. | Python 3.11, Plotly Dash 4.4.1, Pandas, pytest, ruff, GitHub Actions |
 | **02** | [**Production Digital Twin**](https://github.com/icqdgonzalezs/Production-line-simulation) | **¿Qué podría ocurrir?** Simula una línea de producción para analizar capacidad, variabilidad, utilización y cuellos de botella. | Python, SimPy, NumPy, Pandas |
 | **03** | **Predictive Maintenance Intelligence** *(en desarrollo)* | **¿Qué podría fallar?** Analiza datos históricos de equipos para detectar anomalías y estimar riesgo de falla. | Python, Scikit-learn, SQL, Power BI |
 | **04** | **Industrial Process Optimizer** *(en desarrollo)* | **¿Cuál es la mejor alternativa?** Evalúa condiciones operacionales bajo restricciones de proceso, capacidad, calidad y energía. | Python, SciPy, OR-Tools, Pandas |
@@ -130,7 +130,7 @@ Convertir datos y modelos en recomendaciones
 
 Mi objetivo es desarrollar soluciones que conecten:
 
-**Datos → Ingeniería → Modelamiento → Optimización → Inteligencia Artificial → Decisiones**
+**Datos → Ingeniería → Software → Modelamiento → Optimización → Inteligencia Artificial → Decisiones**
 
 La plataforma busca responder preguntas concretas de una operación industrial:
 
@@ -143,6 +143,24 @@ La plataforma busca responder preguntas concretas de una operación industrial:
 | **¿Qué debería investigar o decidir?** | Industrial AI |
 
 > **From operational data to industrial decisions.**
+
+---
+
+### 🛠️ Prácticas de Ingeniería de Software
+
+Aplico prácticas de desarrollo profesional en cada proyecto:
+
+| Práctica | Implementación |
+| :--- | :--- |
+| **Testing automatizado** | pytest con cobertura de lógica de negocio (279+ tests en Industrial KPI Intelligence) |
+| **CI/CD** | GitHub Actions con 2/2 checks verdes (tests + lint) antes de cada merge |
+| **Linting y estilo** | ruff para PEP8, orden de imports y calidad de código |
+| **Conventional Commits** | `feat:`, `fix:`, `refactor:`, `docs:`, `test:` para historial legible |
+| **Arquitectura modular** | Separación `src/` (lógica de negocio) / `dashboard/` (presentación) / `tests/` |
+| **Documentación técnica** | ADRs (Architecture Decision Records) para decisiones clave |
+| **Patrones de diseño** | Strangler pattern para migraciones incrementales, SSOT para configuración |
+| **Configuración externalizada** | YAML para umbrales, parámetros y límites de especificación |
+| **Estándares industriales** | ISA-95, TPM (OEE), NIST 6.1.3 / ISO 22514 (Pp/Ppk), OWASP (seguridad) |
 
 ---
 
@@ -190,6 +208,24 @@ Proyecto orientado al **diseño y manipulación de una base de datos relacional*
 
 > **La evidencia técnica debe mostrar no solo qué herramienta utilizo, sino cómo la aplico para resolver un problema y validar el resultado.**
 
+#### 🏭 Industrial KPI Intelligence (Software Engineering)
+
+[**Ver industrial-kpi-intelligence →**](https://github.com/icqdgonzalezs/industrial-kpi-intelligence)
+
+Dashboard industrial desarrollado con **Plotly Dash 4.4.1 + Python 3.11** siguiendo estándares **ISA-95 / TPM (OEE), NIST 6.1.3 / ISO 22514 (Pp/Ppk) y OWASP**:
+
+- **279+ tests automatizados** con pytest.
+- **CI/CD con GitHub Actions** — 2/2 checks verdes antes de merge.
+- **Arquitectura modular:** `src/` (lógica de negocio) / `dashboard/` (presentación) / `tests/`.
+- **Patrón strangler** (ADR-0001) para migración incremental de esquemas EN→ES.
+- **Configuración externalizada** en YAML (umbrales, límites de especificación, parámetros del generador).
+- **Conventional Commits** con historial legible.
+- **Módulos implementados:** OEE, Pp/Ppk (Capacidad), Control Estadístico (I-MR + Western Electric), Diagnóstico (Pareto, findings), Análisis Operacional (drill-down), Calidad (FPY, defectos, scrap).
+
+**Competencias demostradas:** Python 3.11 · Plotly Dash · pytest · ruff · GitHub Actions · Git (conventional commits) · Arquitectura limpia · ADRs · Testing · CI/CD · YAML config · Estándares industriales.
+
+> **El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales aplicados.**
+
 ---
 
 ### 🌱 Climate & GHG Analytics
@@ -236,7 +272,7 @@ Esta línea permitirá extender el portafolio hacia aplicaciones futuras como **
 
 ### 🧠 Enfoque de trabajo
 
-> **Problema → Investigación → Datos → Evidencia → Análisis → Modelamiento → Comunicación → Decisión**
+> **Problema → Investigación → Datos → Evidencia → Análisis → Software → Modelamiento → Comunicación → Decisión**
 
 Me caracterizo por un enfoque **analítico, estructurado y orientado a la resolución de problemas**.
 
@@ -244,13 +280,14 @@ Cuando trabajo con información, priorizo:
 
 - **Trazabilidad y calidad de datos**
 - **Análisis reproducible**
+- **Software testeable y mantenible**
 - **Interpretación de resultados**
 - **Documentación clara**
 - **Comunicación orientada a decisiones**
 
-Mi forma de abordar un problema combina pensamiento de ingeniería, análisis de datos y mejora continua:
+Mi forma de abordar un problema combina pensamiento de ingeniería, análisis de datos, desarrollo de software y mejora continua:
 
-**Entender el proceso → estructurar la información → analizar → modelar → evaluar alternativas → comunicar evidencia → apoyar decisiones.**
+**Entender el proceso → estructurar la información → analizar → desarrollar → modelar → evaluar alternativas → comunicar evidencia → apoyar decisiones.**
 
 ---
 
@@ -264,11 +301,12 @@ Mi forma de abordar un problema combina pensamiento de ingeniería, análisis de
 
 ### 💼 Abierto a oportunidades
 
-Estoy interesado en oportunidades donde pueda combinar **Ingeniería de Procesos, Data Analytics, Business Intelligence, Simulación, Optimización y Mejora Continua**.
+Estoy interesado en oportunidades donde pueda combinar **Ingeniería de Procesos, Data Analytics, Software Development, Business Intelligence, Simulación, Optimización y Mejora Continua**.
 
 Áreas de interés:
 
 - **Industrial Data Analytics**
+- **Software Development / Full-Stack Python**
 - **Data Analytics / Business Intelligence**
 - **Operations Analytics**
 - **Ingeniería de Procesos**
@@ -284,12 +322,14 @@ Con especial interés en sectores como **Agroindustria, Alimentos, Minería, Cel
 
 ### 🇺🇸 English Summary
 
-Chemical Process Engineer combining **Process Engineering, Data Analytics, Business Intelligence, Simulation, Optimization and Continuous Improvement**.
+Chemical Process Engineer combining **Process Engineering, Data Analytics, Software Development, Business Intelligence, Simulation, Optimization and Continuous Improvement**.
 
-I work with **Python, SQL, Power BI and Excel** to analyze operational data, build dashboards, explore quantitative scenarios and communicate data-driven insights.
+I work with **Python, SQL, Plotly Dash, Power BI and Excel** to build industrial dashboards, analyze operational data, explore quantitative scenarios and communicate data-driven insights.
+
+My software development practice includes **pytest testing, GitHub Actions CI/CD, conventional commits, modular architecture (src/dashboard/tests), ADRs, and industrial standards (ISA-95, TPM, NIST 6.1.3 / ISO 22514, OWASP)**.
 
 My background also includes **Lean Six Sigma, root cause analysis, process analysis, simulation, technical documentation and GHG emissions MRV (ISO 14064)**.
 
-I am particularly interested in opportunities involving **industrial analytics, operations, process improvement, simulation, optimization, sustainability, climate analytics and applied research**.
+I am particularly interested in opportunities involving **industrial analytics, software development, operations, process improvement, simulation, optimization, sustainability, climate analytics and applied research**.
 
 > **From engineering data to industrial decisions.**
