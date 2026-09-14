@@ -49,9 +49,23 @@ Mi objetivo: transformar datos operacionales en evidencia y en software que ayud
 
 ---
 
-### 🏭 Proyectos destacados
+### 🗺️ Portafolio — Industrial Operations Intelligence
 
-#### Industrial KPI Intelligence
+Ecosistema de soluciones para operaciones industriales. **Roadmap: Analyze → Simulate → Predict → Optimize → Decide**
+
+| # | Proyecto | Pregunta de negocio | Stack | Estado |
+| :---: | :--- | :--- | :--- | :---: |
+| **01** | [**Industrial KPI Intelligence**](https://github.com/icqdgonzalezs/industrial-kpi-intelligence) | ¿Qué está ocurriendo? · OEE, Pp/Ppk, control estadístico, Pareto, drill-down | Python · Dash · pytest · GH Actions | ✅ |
+| **02** | [**Production Digital Twin**](https://github.com/icqdgonzalezs/Production-line-simulation) | ¿Qué podría ocurrir? · Simulación de línea, cuellos de botella (OEE 61.8 %) | Python · SimPy · NumPy | ✅ |
+| **03** | Predictive Maintenance Intelligence | ¿Qué podría fallar? | Python · Scikit-learn · SQL | 🚧 |
+| **04** | Industrial Process Optimizer | ¿Cuál es la mejor alternativa? | Python · SciPy · OR-Tools | 🚧 |
+| **05** | Industrial AI Copilot | ¿Qué debería investigar o decidir? | Python · LLM · RAG | 🚧 |
+
+> **Propuesta de valor:** conectar *Datos → Ingeniería → Software → Modelamiento → Optimización → Inteligencia Artificial → Decisiones*.
+
+---
+
+### 🏭 Flagship — Industrial KPI Intelligence
 
 **[github.com/icqdgonzalezs/industrial-kpi-intelligence](https://github.com/icqdgonzalezs/industrial-kpi-intelligence)**
 
@@ -59,39 +73,14 @@ Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calida
 
 | Dimensión | Evidencia |
 | :--- | :--- |
-| **Testing** | ✅ 279+ tests con pytest · cobertura de lógica de negocio |
-| **CI/CD** | ✅ GitHub Actions · 2/2 checks verdes antes de merge |
+| **Testing** | ✅ **279+ tests** con pytest · cobertura de lógica de negocio |
+| **CI/CD** | ✅ GitHub Actions · **2/2 checks verdes** antes de merge |
 | **Arquitectura** | ✅ `src/` / `dashboard/` / `tests/` · ADRs · patrón strangler · SSOT |
 | **Estándares** | ✅ ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · OWASP |
 | **Módulos** | OEE · Pp/Ppk · Control Estadístico (I-MR + Western Electric) · Pareto · Drill-down operacional · Calidad |
 | **Config** | YAML externalizado · sin hardcoding |
 
 > *El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales.*
-
-#### Production Digital Twin
-
-**[github.com/icqdgonzalezs/Production-line-simulation](https://github.com/icqdgonzalezs/Production-line-simulation)**
-
-Simulación de eventos discretos de una línea de envasado industrial (Python · SimPy · pytest).
-
-- Arquitectura modular · interfaz CLI configurable · 11 pruebas unitarias con pytest.
-- Identificó la **etiquetadora** como cuello de botella principal: **OEE 61.8 %** vs. meta 85 %.
-
----
-
-### 🗺️ Portafolio — Industrial Operations Intelligence
-
-Ecosistema de soluciones para operaciones industriales. **Roadmap: Analyze → Simulate → Predict → Optimize → Decide**
-
-| # | Proyecto | Pregunta de negocio | Stack | Estado |
-| :---: | :--- | :--- | :--- | :---: |
-| **01** | [**Industrial KPI Intelligence**](https://github.com/icqdgonzalezs/industrial-kpi-intelligence) | ¿Qué está ocurriendo? | Python · Dash · pytest · GH Actions | ✅ |
-| **02** | [**Production Digital Twin**](https://github.com/icqdgonzalezs/Production-line-simulation) | ¿Qué podría ocurrir? | Python · SimPy · NumPy | ✅ |
-| **03** | Predictive Maintenance Intelligence | ¿Qué podría fallar? | Python · Scikit-learn · SQL | 🚧 |
-| **04** | Industrial Process Optimizer | ¿Cuál es la mejor alternativa? | Python · SciPy · OR-Tools | 🚧 |
-| **05** | Industrial AI Copilot | ¿Qué debería investigar o decidir? | Python · LLM · RAG | 🚧 |
-
-> **Propuesta de valor:** conectar *Datos → Ingeniería → Software → Modelamiento → Optimización → Inteligencia Artificial → Decisiones*.
 
 ---
 
@@ -140,23 +129,6 @@ Ecosistema de soluciones para operaciones industriales. **Roadmap: Analyze → S
 | **Patrones** | Strangler pattern · SSOT · inyección de dependencias |
 | **Configuración externalizada** | YAML para umbrales, límites y parámetros |
 | **Estándares industriales** | ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · OWASP |
-
----
-
-### ⭐ Evidencia técnica
-
-#### 🏭 Industrial KPI Intelligence — Software Engineering
-
-Dashboard industrial con **Plotly Dash 4.4.1 + Python 3.11** siguiendo estándares **ISA-95 / TPM / NIST 6.1.3 / ISO 22514 / OWASP**:
-
-- **279+ tests automatizados** con pytest.
-- **CI/CD con GitHub Actions** — 2/2 checks verdes antes de merge.
-- **Arquitectura modular:** `src/` / `dashboard/` / `tests/`.
-- **Patrón strangler** (ADR-0001) para migración incremental de esquemas EN→ES.
-- **Configuración externalizada** en YAML.
-- **Módulos:** OEE · Pp/Ppk (Capacidad) · Control Estadístico (I-MR + Western Electric) · Pareto · drill-down operacional · Calidad (FPY, scrap, defectos).
-
-> *El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales aplicados.*
 
 ---
 
