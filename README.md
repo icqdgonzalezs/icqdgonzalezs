@@ -1,8 +1,8 @@
-# Hola, soy David González Santibáñez 👋
+# David González Santibáñez
 
-**Ingeniero Civil Químico | Industrial Data Analytics | Software Developer**
+**Chemical Process Engineer · Industrial Data Analytics · Software Developer**
 
-📍 San Fernando, Chile · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz) · [![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
+San Fernando, Chile · [LinkedIn](https://linkedin.com/in/davidgonzalezsz) · [icq.dgonzalezs@gmail.com](mailto:icq.dgonzalezs@gmail.com)
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-4.4.1-3F4F75?style=flat&logo=plotly&logoColor=white)](https://dash.plotly.com/)
@@ -14,145 +14,118 @@
 
 ---
 
-## 🎯 Quién soy
+## Perfil
 
-Combino **Ingeniería de Procesos + Data Analytics + Software Development** para construir aplicaciones que resuelven problemas reales de operaciones industriales.
+Ingeniero Civil Químico con experiencia profesional en **optimización de procesos, análisis de datos operacionales y proyectos industriales** en alimentos, agua y manufactura. Combino ingeniería de procesos, analítica y desarrollo de software para resolver problemas reales de planta.
 
-**No soy un analista que usa Python. Construyo software industrial con tests, CI/CD, arquitectura documentada y estándares ISA-95 / TPM / ISO 22514.**
-
-> **Ingeniería + Datos + Software + Modelamiento + Optimización + Decisión**
+Construyo aplicaciones con **testing automatizado, CI/CD y arquitectura modular**, aplicando estándares industriales (**ISA-95, TPM, NIST 6.1.3 / ISO 22514, OWASP**).
 
 ---
 
-## 🏭 Flagship project: Industrial KPI Intelligence
+## Experiencia
 
-[![Industrial KPI Intelligence](https://img.shields.io/badge/🔗_Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icqdgonzalezs/industrial-kpi-intelligence)
+| Rol | Empresa | Impacto |
+| :--- | :--- | :--- |
+| **Ing. de Proyectos Jr.** <br/><sub>2024 – 2025</sub> | Solidpro | Dashboards Power BI + SAP PP/MM · **−40 %** tiempo de reportes · PFD, balance de líneas, estandarización de POE |
+| **Ing. de Optimización de Procesos** <br/><sub>2022 – 2023</sub> | Aguas Araucanía | KPIs operacionales · RCA sobre caudal, pH y temperatura · **+25 %** eficiencia · automatización de reportes (**−50 %** tiempo) |
+| **Supervisor de Producción** <br/><sub>2019 – 2021</sub> | Frusan S.A. | Supervisión de equipos · KPIs de productividad · coordinación mantenimiento–calidad–logística |
 
-Dashboard industrial (Plotly Dash 4.4.1 + Python 3.11) para análisis de producción, calidad y OEE en plantas multiproducto.
+*Detalle completo en el [CV](https://linkedin.com/in/davidgonzalezsz) / LinkedIn.*
+
+---
+
+## Proyectos destacados
+
+### Production Digital Twin
+
+**[github.com/icqdgonzalezs/Production-line-simulation](https://github.com/icqdgonzalezs/Production-line-simulation)**
+
+Simulación de eventos discretos de una línea de envasado industrial.
+
+`Python` · `SimPy` · `pandas` · `Plotly` · `pytest`
+
+- Arquitectura modular · **interfaz CLI configurable** · **11 pruebas unitarias** con pytest.
+- Identificó la **etiquetadora** como cuello de botella principal: **OEE 61.8 %** frente a meta de 85 %.
+- Modeló escenarios de mejora sobre disponibilidad y capacidad, evaluando alternativas técnicas.
+- Dashboards interactivos y reportes automatizados de KPIs y restricciones de capacidad.
+
+### Industrial KPI Intelligence
+
+**[github.com/icqdgonzalezs/industrial-kpi-intelligence](https://github.com/icqdgonzalezs/industrial-kpi-intelligence)**
+
+Dashboard industrial para producción, calidad y OEE en plantas multiproducto.
+
+`Python 3.11` · `Plotly Dash 4.4.1` · `pytest` · `GitHub Actions`
 
 | Dimensión | Evidencia |
 | :--- | :--- |
-| **Testing** | **279+ tests** con pytest, cobertura de lógica de negocio |
-| **CI/CD** | GitHub Actions con **2/2 checks verdes** (tests + lint) antes de cada merge |
-| **Arquitectura** | Separación `src/` (lógica) / `dashboard/` (presentación) / `tests/`, ADRs, patrón strangler |
-| **Configuración** | YAML externalizado para umbrales, límites de especificación y parámetros |
-| **Estándares** | **ISA-95** (jerarquía), **TPM** (OEE), **NIST 6.1.3 / ISO 22514** (Pp/Ppk), **OWASP** (seguridad) |
-| **Módulos** | OEE · Capacidad (Pp/Ppk) · Control Estadístico (I-MR + Western Electric) · Diagnóstico (Pareto) · Análisis Operacional (drill-down) · Calidad (FPY, defectos, scrap) |
-| **Historial** | Conventional Commits, ramas feature, versionado semántico |
-
-> *"El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales aplicados."*
+| **Testing** | 279+ tests con pytest · cobertura de lógica de negocio |
+| **CI/CD** | GitHub Actions · 2/2 checks verdes antes de merge |
+| **Arquitectura** | `src/` / `dashboard/` / `tests/` · ADRs · patrón strangler · SSOT |
+| **Estándares** | ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · OWASP |
+| **Módulos** | OEE · Pp/Ppk · Control Estadístico (I-MR) · Pareto · drill-down |
+| **Config** | YAML externalizado · sin hardcoding |
 
 ---
 
-## 🗺️ Portafolio: Industrial Operations Intelligence
+## Portafolio — Industrial Operations Intelligence
 
-Ecosistema de soluciones para operaciones industriales. Cada proyecto responde una pregunta concreta del negocio:
+Ecosistema de soluciones para operaciones industriales.
 
-```
-Analyze → Simulate → Predict → Optimize → Decide
-```
+**Roadmap:** Analyze → Simulate → Predict → Optimize → Decide
 
 | # | Proyecto | Pregunta | Stack | Estado |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | [**Industrial KPI Intelligence**](https://github.com/icqdgonzalezs/industrial-kpi-intelligence) | ¿Qué está ocurriendo? | Python 3.11 · Plotly Dash · pytest · ruff · GH Actions | ✅ |
-| **02** | [**Production Digital Twin**](https://github.com/icqdgonzalezs/Production-line-simulation) | ¿Qué podría ocurrir? | Python · SimPy · NumPy · Pandas | ✅ |
-| **03** | Predictive Maintenance Intelligence | ¿Qué podría fallar? | Python · Scikit-learn · SQL · Power BI | 🚧 |
-| **04** | Industrial Process Optimizer | ¿Cuál es la mejor alternativa? | Python · SciPy · OR-Tools · Pandas | 🚧 |
-| **05** | Industrial AI Copilot | ¿Qué debería investigar o decidir? | Python · SQL · LLM · RAG · APIs IA | 🚧 |
+| **01** | [Industrial KPI Intelligence](https://github.com/icqdgonzalezs/industrial-kpi-intelligence) | ¿Qué está ocurriendo? | Python · Dash · pytest · GH Actions | ✅ |
+| **02** | [Production Digital Twin](https://github.com/icqdgonzalezs/Production-line-simulation) | ¿Qué podría ocurrir? | Python · SimPy · NumPy | ✅ |
+| **03** | Predictive Maintenance Intelligence | ¿Qué podría fallar? | Python · Scikit-learn · SQL | 🚧 |
+| **04** | Industrial Process Optimizer | ¿Cuál es la mejor alternativa? | Python · SciPy · OR-Tools | 🚧 |
+| **05** | Industrial AI Copilot | ¿Qué debería investigar? | Python · LLM · RAG | 🚧 |
 
 ---
 
-## 🛠️ Prácticas de Ingeniería de Software
+## Stack técnico
 
-| Categoría | Implementación |
+| Categoría | Herramientas |
 | :--- | :--- |
-| **Testing** | pytest · TDD ligero · cobertura de lógica de negocio (279+ tests) |
-| **CI/CD** | GitHub Actions · 2/2 checks verdes antes de merge · conventional commits |
-| **Linting** | ruff (PEP8, orden de imports, calidad de código) |
-| **Arquitectura** | Separación de capas · ADRs · patrón strangler · SSOT · inyección de dependencias |
-| **Config** | YAML externalizado · sin valores mágicos hardcoded |
-| **Estándares industriales** | ISA-95 · TPM · NIST 6.1.3 / ISO 22514 · OWASP · ISO 14064 |
+| **Lenguajes** | Python 3.11 · SQL |
+| **Frameworks & librerías** | Plotly Dash 4.4.1 · Plotly · Pandas · NumPy · Streamlit |
+| **Testing & CI/CD** | pytest · ruff · GitHub Actions · Conventional Commits |
+| **Arquitectura** | Separación de capas · ADRs · patrón strangler · SSOT · YAML config |
+| **BI & visualización** | Power BI · Excel avanzado · Plotly |
+| **Simulación & optimización** | SimPy · SciPy · OR-Tools · Monte Carlo |
+| **Machine Learning** | Scikit-learn · feature engineering · detección de anomalías |
+| **Mejora continua** | Lean · Six Sigma · DMAIC · RCA · 5 Why · Ishikawa · SMED |
+| **Estándares** | ISA-95 · TPM · NIST 6.1.3 / ISO 22514 · OWASP · ISO 14064 |
+| **Gestión** | SAP PP/MM · Scrum/Kanban · Microsoft Project |
 
 ---
 
-## ⚙️ Stack técnico
+## Formación
 
-**Lenguajes & frameworks**
-`Python 3.11` · `Plotly Dash 4.4.1` · `Plotly` · `Pandas` · `NumPy` · `SQL` · `Streamlit`
-
-**Testing & calidad**
-`pytest` · `ruff` · `GitHub Actions` · `Conventional Commits`
-
-**BI & visualización**
-`Power BI` · `Plotly` · `Excel avanzado`
-
-**Ingeniería de procesos**
-`SimPy` (simulación) · `SciPy` · `OR-Tools` · `Monte Carlo` · `Lean Six Sigma` · `DMAIC` · `RCA`
-
-**Machine Learning**
-`Scikit-learn` · `feature engineering` · `detección de anomalías`
+| Programa | Institución | Año |
+| :--- | :--- | :---: |
+| **Ingeniería Civil Química** | Universidad Católica de Temuco | 2023 |
+| **Diplomado MRV de Emisiones GEI** <br/><sub>ISO 14064-1/-2/-3 · ISO 14067</sub> | PUCV · CORFO | 2025–2026 |
+| **Google Advanced Data Analytics** <br/><sub>En curso · Beca Talento Digital SENCE</sub> | Coursera | 2026 |
+| **Google Project Management** <br/><sub>En curso · Beca Talento Digital SENCE</sub> | Coursera | 2026 |
 
 ---
 
-## 🎓 Formación y certificaciones
+## English Summary
 
-| Estado | Certificación | Institución |
-| :---: | :--- | :--- |
-| 🟡 *En curso* | Google Data Analytics Professional Certificate | Coursera |
-| 🟡 *En curso* | Google Project Management Professional Certificate | Coursera |
-| ✅ | Diplomado MRV de Emisiones GEI (ISO 14064) | PUCV – CORFO |
-| ✅ | Bootcamp Fundamentos de Análisis de Datos | SENCE |
-| ✅ | Introducción a la Programación en Python I | PUCV |
-| ✅ | Metodologías Ágiles (Scrum/Kanban) | IBM |
-| ✅ | Introduction to Six Sigma | Kennesaw State University |
-
----
-
-## 🧠 Cómo trabajo
-
-> **Problema → Investigación → Datos → Evidencia → Análisis → Software → Modelamiento → Comunicación → Decisión**
-
-Priorizo:
-
-- ✅ **Trazabilidad y calidad de datos** — sin datos confiables, no hay decisiones
-- ✅ **Análisis reproducible** — notebooks, tests, versionado
-- ✅ **Software testeable y mantenible** — con arquitectura clara y CI
-- ✅ **Comunicación orientada a decisiones** — el output no es un gráfico, es una acción
-
-Mi diferencial: **entiendo el proceso industrial Y construyo el software que lo analiza**. No necesito que me traduzcan entre el negocio y la implementación técnica — hablo los dos idiomas.
-
----
-
-## 🌐 English Summary
-
-Chemical Process Engineer turned **Software Developer & Industrial Data Analyst**.
-
-I build industrial dashboards and analytics apps with **Python 3.11, Plotly Dash, SQL and Power BI**, applying **pytest testing (279+ tests), GitHub Actions CI/CD, modular architecture (src/dashboard/tests), ADRs, and industrial standards (ISA-95, TPM, NIST 6.1.3 / ISO 22514, OWASP)**.
-
-Background also includes **Lean Six Sigma, root cause analysis, process simulation, technical documentation and GHG emissions MRV (ISO 14064)**.
+Chemical Process Engineer with professional experience in **process optimization, operational KPIs and industrial projects** (food, water, manufacturing). I combine **process engineering, data analytics and software development** — Python, SQL, Power BI, Plotly Dash — applying testing (pytest), CI/CD (GitHub Actions) and industrial standards (ISA-95, TPM, NIST 6.1.3 / ISO 22514, OWASP).
 
 > **From operational data to industrial decisions.**
 
 ---
 
-## 💼 Abierto a oportunidades
-
-Buscando roles donde pueda combinar **Ingeniería de Procesos + Software + Data**:
-
-- 🎯 **Software Development** (Python, backend, aplicaciones de datos)
-- 🎯 **Industrial Data Analytics / Operations Analytics**
-- 🎯 **Business Intelligence / Data Engineering**
-- 🎯 **Process Improvement / Digital Transformation**
-- 🎯 **Climate Analytics / Sustainability Tech**
-
-**Sectores de interés:** agroindustria · alimentos · minería · celulosa · manufactura discreta y continua · sostenibilidad.
-
----
-
-## 📬 Conectemos
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz)
 [![GitHub](https://img.shields.io/badge/GitHub-icqdgonzalezs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icqdgonzalezs)
 [![Gmail](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
 
-> 💡 **¿Buscás un perfil que entienda de procesos industriales Y sepa programar de verdad?** Escribime. Estoy construyendo un portafolio que combina ambas disciplinas con evidencia técnica real.
+**Abierto a oportunidades** en Ingeniería de Procesos · Industrial Data Analytics · Software Development (Python) · Digital Transformation.
+
+**Sectores de interés:** agroindustria · alimentos · minería · celulosa · manufactura.
