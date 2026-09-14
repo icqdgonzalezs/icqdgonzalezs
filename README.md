@@ -76,16 +76,13 @@ Combino **ingeniería de procesos + analítica + software** para construir aplic
 
 ### 📚 Formación técnica — SENCE
 
-Bootcamp **Fundamentos de Análisis de Datos** (Beca Talento Digital SENCE) · 6 proyectos aplicados:
+Bootcamp **Fundamentos de Análisis de Datos** (Beca Talento Digital SENCE).
 
-| # | Proyecto | Competencia | Link |
-| :---: | :--- | :--- | :---: |
-| 01 | Data Analysis Fundamentals | Análisis y exploración de datos | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-01-Análisis-Datos) |
-| 02 | Retro Video Games | Python + POO | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-02-Videojuegos-Retro) |
-| 03 | Data Preparation | Limpieza y transformación | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-03-Preparacion-Datos) |
-| 04 | Exploratory Data Analysis | EDA · visualización | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-04-Análisis-Exploratorio) |
-| 05 | Statistical Inference | Estadística inferencial | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-05-Inferencia-Estadística) |
-| 06 | SQL Database Engineering | Diseño BDD · integridad · transacciones | [→](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/tree/main/Prueba-06-SQL) |
+**6 proyectos aplicados** — Python, preparación de datos, EDA, estadística, SQL:
+
+🔗 **[github.com/icqdgonzalezs/Sence-talentodigital-pruebas](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas)**
+
+Competencias: análisis y exploración de datos · Python + POO · limpieza y transformación · EDA y visualización · estadística inferencial · diseño de bases de datos relacionales.
 
 ---
 
