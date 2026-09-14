@@ -5,10 +5,11 @@
 📍 San Fernando, Chile · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz) · [![Email](https://img.shields.io/badge/Email-icq.dgonzalezs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Dash](https://img.shields.io/badge/Plotly_Dash-4.4.1-3F4F75?style=flat&logo=plotly&logoColor=white)](https://dash.plotly.com/)
-[![pytest](https://img.shields.io/badge/tests-279+-brightgreen?style=flat)](https://github.com/icqdgonzalezs/industrial-kpi-intelligence)
-[![CI](https://img.shields.io/badge/CI-passing-brightgreen?style=flat&logo=githubactions&logoColor=white)](https://github.com/icqdgonzalezs/industrial-kpi-intelligence/actions)
-[![License](https://img.shields.io/badge/license-Elastic_2.0-blue?style=flat)](https://www.elastic.co/licensing/elastic-license)
+[![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-4.4.1-3F4F75?style=flat&logo=plotly&logoColor=white)](https://dash.plotly.com/)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
 
 ---
 
