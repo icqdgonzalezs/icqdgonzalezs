@@ -27,7 +27,7 @@
 
 ### 🎯 Perfil
 
-Ingeniero Civil Químico con **experiencia profesional en optimización de procesos, KPIs operacionales y proyectos industriales** en alimentos, agua y manufactura. Combino **ingeniería de procesos + analítica + software** para construir aplicaciones industriales con **testing, CI/CD y estándares ISA-95 / TPM / NIST 6.1.3 / ISO 22514**.
+Ingeniero Civil Químico con **experiencia profesional en optimización de procesos, KPIs operacionales y proyectos industriales** en alimentos, agua y manufactura. Combino **ingeniería de procesos + analítica + software** para construir aplicaciones industriales con **testing, CI/CD y estándares ISA-95 / TPM / NIST 6.1.3 / ISO 22514 / ISA-101 / WCAG 2.1**.
 
 Mi objetivo: transformar datos operacionales en evidencia y en software que ayude a entender problemas, evaluar alternativas y apoyar mejores decisiones.
 
@@ -51,10 +51,11 @@ Mi objetivo: transformar datos operacionales en evidencia y en software que ayud
 
 ### 🗺️ Portafolio — Industrial Operations Intelligence
 
-Ecosistema de soluciones para operaciones industriales. **Roadmap: Analyze → Simulate → Predict → Optimize → Decide**
+Ecosistema de soluciones para operaciones industriales. **Roadmap cognitivo: Registrar → Analyze → Simulate → Predict → Optimize → Decide**
 
 | # | Proyecto | Pregunta de negocio | Stack | Estado |
 | :---: | :--- | :--- | :--- | :---: |
+| **00** | **Industrial Traceability Intelligence** | ¿De dónde vino? · Trazabilidad end-to-end, genealogía de lotes, etiquetas GS1 | Python · FastAPI · SQLModel · Jinja2 | 🆕 |
 | **01** | [**Industrial KPI Intelligence**](https://github.com/icqdgonzalezs/industrial-kpi-intelligence) | ¿Qué está ocurriendo? · OEE, Pp/Ppk, control estadístico, Pareto, drill-down | Python · Dash · pytest · GH Actions | ✅ |
 | **02** | [**Production Digital Twin**](https://github.com/icqdgonzalezs/Production-line-simulation) | ¿Qué podría ocurrir? · Simulación de línea, cuellos de botella (OEE 61.8 % vs. meta 85 %) | Python · SimPy · NumPy | ✅ |
 | **03** | Predictive Maintenance Intelligence | ¿Qué podría fallar? | Python · Scikit-learn · SQL | 🚧 |
@@ -63,22 +64,26 @@ Ecosistema de soluciones para operaciones industriales. **Roadmap: Analyze → S
 
 > **Propuesta de valor:** conectar *Datos → Ingeniería → Software → Modelamiento → Optimización → Inteligencia Artificial → Decisiones*.
 
+> 📚 Visión completa del ecosistema: [`VISION.md`](https://github.com/icqdgonzalezs/industrial-kpi-intelligence/blob/main/VISION.md)
+
 ---
 
 ### 🏭 Flagship — Industrial KPI Intelligence
 
 **[github.com/icqdgonzalezs/industrial-kpi-intelligence](https://github.com/icqdgonzalezs/industrial-kpi-intelligence)**
 
-Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calidad y OEE en plantas multiproducto, siguiendo estándares **ISA-95 / TPM / NIST 6.1.3 / ISO 22514 / OWASP**.
+Dashboard industrial (Python 3.11 · Plotly Dash 4.4.1) para producción, calidad y OEE en plantas multiproducto, siguiendo estándares **ISA-95 / TPM / NIST 6.1.3 / ISO 22514 / ISA-101 / WCAG 2.1 / OWASP**.
 
 | Dimensión | Evidencia |
 | :--- | :--- |
-| **Testing** | ✅ **279+ tests** con pytest · cobertura de lógica de negocio |
+| **Testing** | ✅ **390 tests** con pytest · cobertura de lógica de negocio |
 | **CI/CD** | ✅ GitHub Actions · **2/2 checks verdes** antes de merge |
-| **Arquitectura** | ✅ `src/` / `dashboard/` / `tests/` · ADRs · patrón strangler · SSOT |
-| **Estándares** | ✅ ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · OWASP |
+| **Arquitectura** | ✅ `src/` / `dashboard/` / `tests/` · ADRs · patrón strangler · SSOT en YAML |
+| **Estándares** | ✅ ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · ISA-101 · WCAG 2.1 · OWASP |
+| **Accesibilidad** | ✅ WCAG 2.1 §1.4.1 · iconografía no cromática (✓ ⚠ ✕) |
 | **Módulos** | OEE · Pp/Ppk · Control Estadístico (I-MR + Western Electric) · Pareto · Drill-down operacional · Calidad (FPY, scrap, defectos) |
-| **Config** | YAML externalizado · sin hardcoding |
+| **Config** | YAML externalizado · SSOT sin hardcoding |
+| **Docs** | [`VISION.md`](https://github.com/icqdgonzalezs/industrial-kpi-intelligence/blob/main/VISION.md) · [`ARCHITECTURE.md`](https://github.com/icqdgonzalezs/industrial-kpi-intelligence/blob/main/ARCHITECTURE.md) · ADRs |
 | **Migración** | Patrón strangler (ADR-0001) para esquemas EN→ES |
 
 > *El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales aplicados.*
@@ -117,6 +122,7 @@ Simulación de eventos discretos de una línea de envasado industrial (Python ·
 | **Optimización** | Evaluación de alternativas bajo restricciones |
 | **Machine Learning** | EDA · feature engineering · detección de anomalías · modelos predictivos |
 | **Mejora Continua** | Lean · DMAIC · RCA · 5 Why · Ishikawa · SMED |
+| **Trazabilidad Industrial** | GS1 · ISO 22005 · NCh 2983 · HACCP · genealogía de lotes |
 | **Climate & GHG Analytics** | MRV · emisiones GEI · trazabilidad · sostenibilidad · ISO 14064 |
 
 </details>
@@ -129,13 +135,15 @@ Simulación de eventos discretos de una línea de envasado industrial (Python ·
 | Categoría | Herramientas / Habilidades |
 | :--- | :--- |
 | **Data & BI** | Python · Pandas · NumPy · SQL · Power BI · DAX · Excel avanzado · Power Query |
-| **Software** | Python 3.11 · Plotly Dash 4.4.1 · Plotly · Streamlit · type hints · PEP8 |
-| **Testing & DevOps** | pytest (279+ tests) · ruff · GitHub Actions · conventional commits · Git |
+| **Software** | Python 3.11 · Plotly Dash 4.4.1 · Plotly · Streamlit · FastAPI · type hints · PEP8 |
+| **Testing & DevOps** | pytest (390 tests) · ruff · GitHub Actions · conventional commits · Git |
 | **Arquitectura** | Separación de capas · ADRs · patrón strangler · SSOT · inyección de dependencias · YAML config |
+| **Accesibilidad** | WCAG 2.1 · iconografía no cromática · contraste · semántica |
 | **Ingeniería de procesos** | PFD · balances de materia y energía · capacidad · OEE · tiempos de ciclo |
 | **Simulación & optimización** | SimPy · SciPy · OR-Tools · Monte Carlo |
 | **Machine Learning** | Scikit-learn · feature engineering · detección de anomalías |
 | **Calidad & Mejora Continua** | HACCP · BPM · POES · RCA · 5 Why · Ishikawa · DMAIC · SMED · Six Sigma |
+| **Trazabilidad** | GS1 (GTIN, SSCC, DataMatrix) · ISO 22005 · NCh 2983 · D.S. 977 · Ley 20.606 |
 | **Gestión** | SAP PP/MM · Scrum · Kanban · Microsoft Project |
 | **Sustentabilidad** | MRV · inventarios GEI · huella de carbono · ISO 14064 |
 
@@ -148,14 +156,14 @@ Simulación de eventos discretos de una línea de envasado industrial (Python ·
 
 | Práctica | Implementación |
 | :--- | :--- |
-| **Testing automatizado** | pytest con cobertura de lógica de negocio (279+ tests en Industrial KPI Intelligence) |
+| **Testing automatizado** | pytest con cobertura de lógica de negocio (390 tests en Industrial KPI Intelligence) |
 | **CI/CD** | GitHub Actions · 2/2 checks verdes antes de merge · conventional commits |
 | **Linting y estilo** | ruff (PEP8, orden de imports, calidad de código) |
 | **Arquitectura modular** | Separación `src/` (lógica) / `dashboard/` (presentación) / `tests/` |
-| **Documentación** | ADRs para decisiones clave · READMEs detallados · docstrings en cada módulo |
+| **Documentación** | ADRs · README detallado · VISION.md · ARCHITECTURE.md · docstrings en cada módulo |
 | **Patrones** | Strangler pattern · SSOT · inyección de dependencias |
 | **Configuración externalizada** | YAML para umbrales, límites y parámetros |
-| **Estándares industriales** | ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · OWASP |
+| **Estándares industriales** | ISA-95 · TPM (OEE) · NIST 6.1.3 / ISO 22514 (Pp/Ppk) · ISA-101 · WCAG 2.1 · OWASP |
 
 </details>
 
@@ -164,13 +172,14 @@ Simulación de eventos discretos de una línea de envasado industrial (Python ·
 
 <br/>
 
-Dashboard industrial con **Plotly Dash 4.4.1 + Python 3.11** siguiendo estándares **ISA-95 / TPM / NIST 6.1.3 / ISO 22514 / OWASP**:
+Dashboard industrial con **Plotly Dash 4.4.1 + Python 3.11** siguiendo estándares **ISA-95 / TPM / NIST 6.1.3 / ISO 22514 / ISA-101 / WCAG 2.1 / OWASP**:
 
-- **279+ tests automatizados** con pytest.
+- **390 tests automatizados** con pytest.
 - **CI/CD con GitHub Actions** — 2/2 checks verdes antes de merge.
 - **Arquitectura modular:** `src/` / `dashboard/` / `tests/`.
 - **Patrón strangler** (ADR-0001) para migración incremental de esquemas EN→ES.
-- **Configuración externalizada** en YAML.
+- **Configuración externalizada** en YAML (SSOT).
+- **Accesibilidad WCAG 2.1:** iconografía no cromática en semáforos.
 - **Módulos:** OEE · Pp/Ppk (Capacidad) · Control Estadístico (I-MR + Western Electric) · Pareto · drill-down operacional · Calidad (FPY, scrap, defectos).
 
 > *El software que construyo no es un script: tiene tests, CI, arquitectura documentada y estándares industriales aplicados.*
@@ -246,13 +255,13 @@ Mi diferencial: **entiendo el proceso industrial Y construyo el software que lo 
 
 <br/>
 
-Chemical Process Engineer with professional experience in **process optimization, operational KPIs and industrial projects** (food, water, manufacturing). I combine **process engineering, data analytics and software development** to build industrial applications with **testing (pytest), CI/CD (GitHub Actions), modular architecture (src/dashboard/tests), ADRs, and industrial standards (ISA-95, TPM, NIST 6.1.3 / ISO 22514, OWASP)**.
+Chemical Process Engineer with professional experience in **process optimization, operational KPIs and industrial projects** (food, water, manufacturing). I combine **process engineering, data analytics and software development** to build industrial applications with **testing (pytest, 390 tests), CI/CD (GitHub Actions), modular architecture (src/dashboard/tests), ADRs, and industrial standards (ISA-95, TPM, NIST 6.1.3 / ISO 22514, ISA-101, WCAG 2.1, OWASP)**.
 
 **Self-taught software developer** — I build these skills autonomously through online courses, official documentation, reading open-source code, and shipping end-to-end projects from scratch. Every portfolio project is a deliberate learning vehicle (architecture, testing, CI/CD, design patterns).
 
 **Stack:** Python 3.11 · Plotly Dash · SQL · Power BI · Excel · SAP · Scikit-learn · SimPy · Git.
 
-Background also includes **Lean Six Sigma, root cause analysis, process simulation, and GHG emissions MRV (ISO 14064)**.
+Background also includes **Lean Six Sigma, root cause analysis, process simulation, industrial traceability (GS1, ISO 22005, HACCP), and GHG emissions MRV (ISO 14064)**.
 
 > **From operational data to industrial decisions.**
 
